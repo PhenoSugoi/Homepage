@@ -5,6 +5,7 @@
 <center><p style ="font-size:60px">HOMEPAGE</center>
 <center><img src="https://s9.rr.itc.cn/r/wapChange/20174_25_13/a0am5i31919801386405.png"></center>
 <body style =  "background: url(https://www.itl.cat/pngfile/big/224-2241047_pastel-wallpaper-4k.jpg); background-size: 100%">
+<center><p style="font-size:20px">Click the today and tomorrow word on our homepage and their you can find our  project </center>
 
 <p> <center>Group 8: 
 <br>Lataquin, Karen
