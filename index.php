@@ -12,6 +12,6 @@
 <br>Villarna, Jairyelle Benedict
 <br>Caporal, Jahnn Marie 
 <br>
-<p style="font-size:25px"><a href="https://ptlmtp.herokuapp.com">TODAY AND TOMORROW</a>
+<p style="font-size:25px"><a href="https://pltms.herokuapp.com/">TODAY AND TOMORROW</a>
 </center>
 </html>
